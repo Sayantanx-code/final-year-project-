@@ -1,0 +1,6 @@
+{
+  "name": "FER-DL Ingestion Console",
+  "description": "Facial Emotion Recognition System - Real-time Inference Console and Telemetry Monitor",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
